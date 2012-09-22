@@ -1,0 +1,9 @@
+C:\Users\ekelley\Dropbox\Independent Work\JP\Motion_Planner\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ekelley\Dropbox\Independent Work\JP\Motion_Planner\bin\Debug\Motion_Planner.exe
+C:\Users\ekelley\Dropbox\Independent Work\JP\Motion_Planner\bin\Debug\Motion_Planner.pdb
+C:\Users\ekelley\Dropbox\Independent Work\JP\Motion_Planner\bin\Debug\ZedGraph.dll
+C:\Users\ekelley\Dropbox\Independent Work\JP\Motion_Planner\obj\x86\Debug\Motion_Planner.exe
+C:\Users\ekelley\Dropbox\Independent Work\JP\Motion_Planner\obj\x86\Debug\Motion_Planner.pdb
+C:\Users\ekelley\Dropbox\Independent Work\JP\Motion_Planner\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ekelley\Dropbox\Independent Work\JP\Motion_Planner\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ekelley\Dropbox\Independent Work\JP\Motion_Planner\obj\x86\Debug\Motion_Planner.Motion_GUI.resources

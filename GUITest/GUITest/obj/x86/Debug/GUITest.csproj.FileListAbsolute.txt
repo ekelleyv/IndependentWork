@@ -1,0 +1,9 @@
+C:\Users\ekelley\Dropbox\Independent Work\JP\GUITest\GUITest\bin\Debug\GUITest.exe
+C:\Users\ekelley\Dropbox\Independent Work\JP\GUITest\GUITest\bin\Debug\GUITest.pdb
+C:\Users\ekelley\Dropbox\Independent Work\JP\GUITest\GUITest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ekelley\Dropbox\Independent Work\JP\GUITest\GUITest\obj\x86\Debug\GUITest.Form1.resources
+C:\Users\ekelley\Dropbox\Independent Work\JP\GUITest\GUITest\obj\x86\Debug\GUITest.Properties.Resources.resources
+C:\Users\ekelley\Dropbox\Independent Work\JP\GUITest\GUITest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ekelley\Dropbox\Independent Work\JP\GUITest\GUITest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ekelley\Dropbox\Independent Work\JP\GUITest\GUITest\obj\x86\Debug\GUITest.exe
+C:\Users\ekelley\Dropbox\Independent Work\JP\GUITest\GUITest\obj\x86\Debug\GUITest.pdb

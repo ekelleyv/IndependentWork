@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Motion_Planner/Main.cs">
+    <Files>
+      <File FileName="Motion_Planner/Main.cs" Line="68" Column="25" />
+      <File FileName="Motion_Planner/Obstacle.cs" Line="14" Column="33" />
+      <File FileName="Motion_Planner/Auv.cs" Line="63" Column="12" />
+      <File FileName="Motion_Planner/GridCell.cs" Line="25" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

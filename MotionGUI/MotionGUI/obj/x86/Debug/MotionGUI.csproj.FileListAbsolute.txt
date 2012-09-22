@@ -1,0 +1,9 @@
+C:\Users\ekelley\Dropbox\Independent Work\JP\MotionGUI\MotionGUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ekelley\Dropbox\Independent Work\JP\MotionGUI\MotionGUI\obj\x86\Debug\MotionGUI.Form1.resources
+C:\Users\ekelley\Dropbox\Independent Work\JP\MotionGUI\MotionGUI\obj\x86\Debug\MotionGUI.Properties.Resources.resources
+C:\Users\ekelley\Dropbox\Independent Work\JP\MotionGUI\MotionGUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ekelley\Dropbox\Independent Work\JP\MotionGUI\MotionGUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ekelley\Dropbox\Independent Work\JP\MotionGUI\MotionGUI\bin\Debug\MotionGUI.exe
+C:\Users\ekelley\Dropbox\Independent Work\JP\MotionGUI\MotionGUI\bin\Debug\MotionGUI.pdb
+C:\Users\ekelley\Dropbox\Independent Work\JP\MotionGUI\MotionGUI\obj\x86\Debug\MotionGUI.exe
+C:\Users\ekelley\Dropbox\Independent Work\JP\MotionGUI\MotionGUI\obj\x86\Debug\MotionGUI.pdb
